@@ -1,0 +1,7 @@
+JWT_SECRET=randomSymbols
+
+DB_HOST='localhost'
+DB_PORT=5432
+DB_USERNAME='postgres'
+DB_PASSWORD='superAdminPassword'
+DB_NAME='dbName'
